@@ -4,7 +4,7 @@ This project analyzes Amtrak’s on-time performance over the past three fiscal 
 ## Project Overview
 This project analyzes Amtrak’s on-time performance from 2021 to 2023 to uncover key insights into travel trends, ridership patterns, and operational efficiency across U.S. states. Using a relational database design and SQL-based analysis, the project identifies factors influencing delays, evaluates budget allocation fairness, and recommends strategies to enhance ridership and service reliability.
 
-## Tools 7 Techniques
+## Tools & Techniques
 * MySQL and Tableau for data analysis and visualization
 
 * Data Cleaning & Transformation using Excel and SQL (UNPIVOT, JOINS, Aggregations)
@@ -23,7 +23,7 @@ This project analyzes Amtrak’s on-time performance from 2021 to 2023 to uncove
 
 * Budget Allocation Gaps: States with major ridership increases (e.g., Kentucky +56.6%, Alabama +47.9%) received disproportionately low funding, revealing inefficiencies in budget distribution.
 
-   ### Recommendations:
+### Recommendations:
 
  * Strengthen federal enforcement of Amtrak’s right-of-way over freight trains to reduce delays.
 
