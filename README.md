@@ -23,7 +23,7 @@ This project analyzes Amtrak’s on-time performance from 2021 to 2023 to uncove
 
 * Budget Allocation Gaps: States with major ridership increases (e.g., Kentucky +56.6%, Alabama +47.9%) received disproportionately low funding, revealing inefficiencies in budget distribution.
 
-### Recommendations:
+## Recommendations:
 
  * Strengthen federal enforcement of Amtrak’s right-of-way over freight trains to reduce delays.
 
